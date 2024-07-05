@@ -1,0 +1,91 @@
+body
+{
+    font-size: 11px;
+    text-align: center;
+    background-color: hsl(0, 0%, 95%);
+    user-select: none;
+    margin: 130px 0 0 185px;
+}
+section
+{
+    display: flex;
+}
+article
+{
+    position:static;
+}
+article p
+{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20px;
+    text-align: left;   
+}
+.one,.two,.three
+{
+    width: 150px;
+    padding: 35px;
+}
+.one
+{
+    background-color: hsl(31, 77%, 52%);
+}
+.ic1
+{
+    margin:5px 0 0 -90px;
+}
+.two
+{
+    background-color: hsl(184, 100%, 22%);
+}
+.ic2
+{
+    margin:5px 0 0 -90px;
+}
+.three
+{
+    background-color: hsl(179, 100%, 13%) ;
+}
+.ic3
+{
+    margin:5px 0 0 -90px;
+}
+h1
+{
+    margin-left: -80px;
+    font-family: "Big Shoulders Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: hsl(0, 0%, 95%);
+    font-size: 30px;
+    text-transform: uppercase;
+}
+button
+{
+    font-family: "Lexend Deca", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: capitalize;
+    width: 110px;
+    padding: 10px 15px;
+    border-radius: 50px;
+    border: none;
+    margin: 70px 0 8px -40px;
+}
+.b1
+{
+    color: hsl(31, 77%, 52%);
+}
+.b2
+{
+    color: hsl(184, 100%, 22%);
+}
+.b3
+{
+    color: hsl(179, 100%, 13%) ;
+}
